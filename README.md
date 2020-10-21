@@ -4,6 +4,9 @@
 # Hubot Corona Stats Script
 
 A simple hubot script to show the crona statistics for a given city in germany.
+Overall i have to say:
+
+<img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" align="center" width="600" alt="honest work meme">
 </td></tr></table>
 <table align="left"><tr><td align="left" width="9999">
 
