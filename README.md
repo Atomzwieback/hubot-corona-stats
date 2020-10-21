@@ -3,7 +3,7 @@
 
 # Hubot Corona Stats Script
 
-A simple hubot script to show the crona statistics for a given city.
+A simple hubot script to show the crona statistics for a given city in germany.
 </td></tr></table>
 <table align="left"><tr><td align="left" width="9999">
 
@@ -16,3 +16,11 @@ Currently the output looks like the following
 <table align="center"><tr><td align="center" width="9999">
 <img src="example.png" align="center" width="600" alt="example pic">
 </td></tr></table>
+<table align="left"><tr><td align="left" width="9999">
+
+
+## Installation
+
+In order to install this script just copy it over in your `script` folder in the location of your hubot. To get Data displayed for your location you have to find the part `where=GEN%3D%27Augsburg%27` and replace `Augsburg` with the city of your choice. But as far as i know the API does only handle german citys and places.
+</td></tr></table>
+<table align="left"><tr><td align="left" width="9999">
